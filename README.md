@@ -1,5 +1,6 @@
 https://team-type.vercel.app/sign-in
 
+![image](https://github.com/user-attachments/assets/dcd44337-0c25-45b2-8afc-b197294fadb7)
 
 **Authentication:** Implemented user authentication via Google using NextAuth, providing secure sign-in, sign-out, and session management.
 
