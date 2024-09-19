@@ -237,15 +237,7 @@ export default function ToolbarPlugin() {
       >
         <i className="format right-align" />
       </button>
-      <button
-        onClick={() => {
-          editor.dispatchCommand(FORMAT_ELEMENT_COMMAND, 'justify');
-        }}
-        className="toolbar-item"
-        aria-label="Justify Align"
-      >
-        <i className="format justify-align" />
-      </button>{' '}
+      
     </div>
   );
 }
