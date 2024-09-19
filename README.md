@@ -1,7 +1,7 @@
 https://team-type.vercel.app/sign-in
 
 
-**Authentication:** Implemented user authentication via GitHub using NextAuth, providing secure sign-in, sign-out, and session management.
+**Authentication:** Implemented user authentication via Google using NextAuth, providing secure sign-in, sign-out, and session management.
 
 **Collaborative Text Editor:** Supports real-time collaborative editing, allowing multiple users to work on the same document simultaneously.
 
