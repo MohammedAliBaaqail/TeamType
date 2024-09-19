@@ -1,5 +1,6 @@
 https://team-type.vercel.app
 
+This project is a collaborative document platform with Google authentication via NextAuth. It enables users to create, edit, delete, and share documents, with real-time editing, inline comments, and threaded discussions. Key features include active collaborator indicators, document activity notifications, and a fully responsive design across devices.
 ![image](https://github.com/user-attachments/assets/dcd44337-0c25-45b2-8afc-b197294fadb7)
 
 **Authentication:** Implemented user authentication via Google using NextAuth, providing secure sign-in, sign-out, and session management.
