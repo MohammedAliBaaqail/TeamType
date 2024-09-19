@@ -1,4 +1,4 @@
-https://team-type.vercel.app/sign-in
+https://team-type.vercel.app
 
 ![image](https://github.com/user-attachments/assets/dcd44337-0c25-45b2-8afc-b197294fadb7)
 
