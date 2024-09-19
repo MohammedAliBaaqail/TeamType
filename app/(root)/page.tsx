@@ -1,6 +1,6 @@
 import AddDocumentBtn from '@/components/AddDocumentBtn';
 import { DeleteModal } from '@/components/DeleteModal';
-import Header from '@/components/Header'
+import Header from '../../components/Header'
 import Notifications from '@/components/Notifications';
 import { Button } from '@/components/ui/button'
 import { getDocuments } from '@/lib/actions/room.actions';
